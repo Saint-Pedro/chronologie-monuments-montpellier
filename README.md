@@ -34,5 +34,5 @@ Les joueurs doivent classer 5 monuments de Montpellier du plus ancien au plus r√
 ```bash
 git clone https://github.com/Saint-Pedro/chronologie-monuments-montpellier.git
 cd chronologie-monuments-montpellier
-
+```
 <img width="1893" height="1327" alt="Capture d'√©cran 2025-10-06 155450" src="https://github.com/user-attachments/assets/c3898eb0-2cee-4859-a05b-6fc10d87dafc" />
